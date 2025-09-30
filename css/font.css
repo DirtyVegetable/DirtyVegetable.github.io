@@ -15,28 +15,35 @@
 
 .icon-yinle:before {
   content: "\e602";
-  color: white;
+  color: gray;
 }
 
 .icon-juanzeng:before {
   content: "\e7ee";
-  color: white;
+  color: gray;
 }
 
 .icon-shouye-copy:before {
   content: "\e650";
-  color: white;
+  color: gray;
 }
 
 .icon-github:before {
   content: "\e64c";
-  color: white;
+  color: gray;
 }
 
 .icon-tieba:before {
   content: "\e6b4";
+  color: rgb(0, 153, 255);
 }
 
 .icon-bilibili-fill:before {
   content: "\e7ca";
+  color: rgb(0, 153, 255);
+}
+
+.icon-yinle1:before {
+  content: "\e99a";
+  color: gray;
 }
